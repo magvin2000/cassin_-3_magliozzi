@@ -5,6 +5,3 @@ tipo aggiungo qualche ...
 <<<<<<< HEAD
 poi qualche--- 
 modifiche post cassin
-=======
-poi qualche--- ma ti modifico io, stronzo!
->>>>>>> c8e8c19494afb8726785373e2e062c3275cd8fcd
