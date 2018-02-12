@@ -1,8 +1,11 @@
 allora cassin di 
-cosa vogliamo 
+cosa vogliamo ITALIANI!!!
 parlare oggi
 tipo aggiungo qualche ...
-<<<<<<< HEAD
 poi qualche--- 
 modifiche post cassin
+<<<<<<< HEAD
 questa riga è di cassin
+=======
+ciao the chessin.
+>>>>>>> dab908f581ef06b1f345aab21ef478fdbfdc437f
